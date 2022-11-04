@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dia77o
-- 👀 I’m interested in Network Automation
-- 🌱 I’m currently learning CCNA, DevNet, Pyton, Linux and also english... yes really !!!
-- 💞️ I’m looking for knowledge beyond everything, i like to be confident with things.
+- 👀 I’m interested in Network Automation, Web and Mobile Development
 - 📫 How to reach me 07amadoudiallo07@gmail.com
 
 <!---
